@@ -1,0 +1,14 @@
+requests
+ollama
+numpy
+scipy
+edge-tts
+pygame
+faster-whisper
+fastapi
+uvicorn
+python-multipart
+noisereduce
+pydub
+soundfile
+ffmpeg-python
