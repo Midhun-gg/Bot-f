@@ -31,7 +31,7 @@ A conversational AI bot with audio processing capabilities, built with FastAPI, 
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Midhun-gg/Bot-f.git
    cd Bot-f
    ```
 
